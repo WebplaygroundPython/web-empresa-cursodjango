@@ -1,0 +1,5 @@
+Pillow==7.2.0
+django==3.0
+django-ckeditor==6.0.0
+cymysql==0.9.14
+django-cymysql==2.2.0
